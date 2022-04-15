@@ -1,0 +1,4 @@
+GET http://localhost:8080/get_friends HTTP/1.1
+content-type: application/json
+
+{"target_id":"36"}

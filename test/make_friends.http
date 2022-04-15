@@ -1,0 +1,4 @@
+POST http://localhost:8080/make_friends HTTP/1.1
+Content-Type: application/json
+
+{"source_id":"43", "target_id":"44"}
